@@ -1,0 +1,14 @@
+{
+  "asset_class": "B2B Media Agency Retainer & Client Billing Optimizer",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "client_retainer_tier_logs",
+    "contractual_allotted_hours_matrices",
+    "realtime_overage_accrual_codes",
+    "net_billable_disbursement_values"
+  ]
+}
